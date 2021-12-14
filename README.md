@@ -1,2 +1,2 @@
 # 2D-Unity-Combat
-Reusable encapsulated scripts which aid in making combat systems in Unity.
+A repository full of building blocks for any 2D combat system in unity.
