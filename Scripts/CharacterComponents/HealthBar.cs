@@ -33,7 +33,7 @@ public class HealthBar : MonoBehaviour
             return;
         }
 
-        float newPercent = characterHealth.getPercent();
+        float newPercent = characterHealth.getHealthPercent();
         if(currPercent != newPercent)
         {
             UpdateBar( newPercent );
