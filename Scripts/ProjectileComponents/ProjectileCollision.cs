@@ -14,7 +14,7 @@ using UnityEngine;
 */
 
 [RequireComponent(typeof(Collider2D))]
-public class Projectile : MonoBehaviour
+public class ProjectileCollision : MonoBehaviour
 {
     [Tooltip("This projectile will deal N damage on collision. Setup physics collision layers to disable friendly fire")]
     [SerializeField] 
